@@ -41,7 +41,7 @@ namespace BatteryWarningMod
                 {
                     this.noBattery = true;
                 }
-                if(this.noBattery == false || this.messageShown == false) //checking no Battery twice, cause of first run...
+                if(this.noBattery == false && this.messageShown == false) //checking no Battery twice, cause of first run...
                 {
                     foreach (ManagementObject mo in col)
                     {
