@@ -1,4 +1,4 @@
-﻿{
+{
   "Name": "BatteryWarningMod",
   "Author": "Husky110",
   "Version": "1.0.0",
@@ -6,7 +6,5 @@
   "UniqueID": "Husky110.BatteryWarningMod",
   "EntryDll": "BatteryWarningMod.dll",
   "MinimumApiVersion": "2.3",
-  "UpdateKeys": [
-    "Github:Husky110/BatteryWarningMod"
-  ]
+  "UpdateKeys": ["Nexus:1886"]
 }
